@@ -3,7 +3,7 @@
 
 
 ##   **Github Stats**
-![Queen Github stats](https://github-readme-stats.vercel.app/api?username=V1SU&show_icons=true&theme=tokyonight)
+[![VASU github stats](https://github-readme-stats.vercel.app/api?username=V1SU&show_icons=true&theme=cobalt&count_private=true)](https://github.com/V1SU)
 
 ### Let's connect!
 <p>
