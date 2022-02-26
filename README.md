@@ -7,7 +7,7 @@
 
 ### Let's connect!
 <p>
-    <a href="https://t.me/XXVASU" target="blank"><img src="https://img.shields.io/badge/@XXVASU-30302f?style=flat&logo=telegram" /></a>
+    <a href="https://t.me/VASUxD" target="blank"><img src="https://img.shields.io/badge/@VASUxD-30302f?style=flat&logo=telegram" /></a>
     </p>
 <details>
     <summary>&#127942 <b>GitHub Awards</b></summary><br/>
