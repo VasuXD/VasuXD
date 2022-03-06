@@ -3,7 +3,7 @@
 
 
 ##   **Github Stats**
-[![VASU github stats](https://github-readme-stats.vercel.app/api?username=V1SU&show_icons=true&theme=cobalt&count_private=true)](https://github.com/VasuXD)
+[![VASU github stats](https://github-readme-stats.vercel.app/api?username=VasuXD&show_icons=true&theme=cobalt&count_private=true)](https://github.com/VasuXD)
 ![top lang](https://github-readme-stats.vercel.app/api/top-langs?username=VasuXD&show_icons=true&theme=tokyonight&layout=compact)
 
 
