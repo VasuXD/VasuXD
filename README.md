@@ -1,16 +1,21 @@
-# <img src="https://i.pinimg.com/originals/01/63/6c/01636c5434cd0462086620c60fdfec16.gif" width="50px"> Hey There! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> | [![Profile views](https://gpvc.arturio.dev/VasuXD)](https://github.com/VasuXD)
+## Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="25px"> I'm [✪ ⚝ ᴠᴀꜱᴜ™✓★ ✪](https://t.me/VasuXD) | [![Profile views](https://gpvc.arturio.dev/VasuXD)](https://github.com/VasuXD)
+I am 19 y.o. college student from Delhi, India🇮🇳 |
+I am noob😂 but still want to learn Python, Java, C, C++, Golang
+
+- **Currently learning: Python, Go, C, C++, Java, etc**
+
+## find me out at
+[![Telegram](https://img.shields.io/badge/telegram-1b77FF.svg?style=for-the-badge&logo=telegram)](https://t.me/VasuXD) [![Instagram](https://img.shields.io/badge/Instagram-1b77FF.svg?style=for-the-badge&logo=Instagram)](https://Instagram/VasuXD)
 
 
-
-##   **Github Stats**
 [![VASU github stats](https://github-readme-stats.vercel.app/api?username=VasuXD&show_icons=true&theme=cobalt&count_private=true)](https://github.com/VasuXD)
-![top lang](https://github-readme-stats.vercel.app/api/top-langs?username=VasuXD&show_icons=true&theme=tokyonight&layout=compact)
+[![top lang](https://github-readme-stats.vercel.app/api/top-langs?username=VasuXD&show_icons=true&theme=tokyonight&layout=compact)](https://github.com/VasuXD)
+[![VasuXD's github streak](https://github-readme-streak-stats.herokuapp.com/?user=VasuXD&theme=cobalt)](https://github.com/VasuXD/github-readme-streak-stats)
 
+### Now Playing 🎧
 
-### Let's connect!
-<p>
-    <a href="https://t.me/VASUxD" target="blank"><img src="https://img.shields.io/badge/@VASUxD-30302f?style=flat&logo=telegram" /></a>
-    </p>
+[![Spotify](https://github-readme-remake.vercel.app/api/spotify)](https://open.spotify.com/user/31xfrd2blwjvxovmqe7hp237fzb4)
+
 <details>
     <summary>&#127942 <b>GitHub Awards</b></summary><br/>
 
